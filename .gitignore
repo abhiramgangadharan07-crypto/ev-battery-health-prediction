@@ -1,0 +1,13 @@
+# Data files (downloaded manually from Kaggle - too large for GitHub)
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
